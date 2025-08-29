@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   welcome:
-    name: Post welcome comment
+    name: Post welcome comments
     runs-on: ubuntu-latest
 
     steps:
